@@ -1,4 +1,4 @@
-# Hello, I'm [Bandyia Growth Partners] 👋
+# Hello, I'm [Bandiya Growth Partners] 👋
 
 ## 💻 Full Stack Developer
 
